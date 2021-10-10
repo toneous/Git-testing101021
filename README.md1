@@ -1,0 +1,6 @@
+How to modify a Built React App?
+You type in cmd in the react terminal and press enter
+You type cd reactapp and press enter
+You type npm start and press enter.(This runs in the app in the development mode)
+this creates a link http//localhost:3000 which opens in your default browser.
+Once you edit and make changes to any of the source code in the reactapp folder, the page of the browser automatically updates itself.
